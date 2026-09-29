@@ -1,14 +1,18 @@
 # ¡Hola! Soy Derick Tipan 👋
 
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&width=550&lines=Software+Engineering+Student;Backend+%26+Web+Developer;Building+REST+APIs+%26+Modular+Apps" alt="Typing SVG" />
+</p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-dvinicio__t%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dvinicio_t@hotmail.com)
-[![Location](https://img.shields.io/badge/Ubicación-Quito%2C%20Ecuador-blue?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Ubicación](https://img.shields.io/badge/Quito%2C%20Ecuador-gray?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 ---
 
 ### 👨‍💻 Sobre mí
 - 🎓 **Estudiante de Ingeniería de Software** en la Universidad de las Américas (**UDLA**).
-- 🚀 Enamorado del desarrollo **Web, Backend y Arquitectura de Software**.
+- 🚀 Enfocado en desarrollo **Web, Backend y Arquitectura de Software**.
 - 🛠️ Interesado en el diseño y consumo de **APIs REST**, bases de datos relacionales y código limpio (**Clean Code / POO**).
 - 🎯 **Objetivo actual:** Buscando activamente oportunidades y pasantías pre-profesionales para aportar valor y seguir aprendiendo en equipos de desarrollo ágiles (**Scrum**).
 
@@ -41,9 +45,19 @@
 
 ---
 
-### 📊 Actividad en GitHub
+### 📌 Proyectos Destacados
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Derickt8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de Derick" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derickt8&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
-</p>
+| Proyecto | Descripción | Stack |
+| :--- | :--- | :--- |
+| ⚡ [**E-commerce Asíncrono**](https://github.com/Derickt8/practica-rabbitmq-ecommerce) | Procesamiento de colas y mensajería para flujos de compra en comercio electrónico. | `Python` `RabbitMQ` |
+| 🛡️ [**Servicio Backend & API REST**](https://github.com/Derickt8/Proyecto-CRUD-Backend) | Servidor y endpoints RESTful con persistencia relacional y tipado estricto. | `TypeScript` `Node.js` `MySQL` |
+| 💻 [**Frontend Modular**](https://github.com/Derickt8/Proyecto-CRUD-Front) | Interfaz web responsiva con consumo asíncrono de servicios REST. | `JavaScript` `HTML5` `CSS3` |
+| 📱 [**Aplicación Móvil**](https://github.com/Derickt8/Proyecto_movil) | App multiplataforma orientada a interfaces reactivas y experiencia de usuario. | `Flutter` `Dart` |
+
+---
+
+### ⚙️ Enfoque & Buenas Prácticas
+- 🧩 **Arquitectura:** Diseño modular, Programación Orientada a Objetos (POO) y separación de responsabilidades.
+- 🌐 **APIs & Datos:** Consumo/creación de APIs REST, modelado relacional e integridad en SQL.
+- 🔄 **Control de Versiones:** Flujos de trabajo con Git (ramas, pull requests, commits estructurados).
+- ⚡ **Metodologías:** Desarrollo colaborativo bajo marco ágil (Scrum).
